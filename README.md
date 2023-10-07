@@ -11,3 +11,7 @@ https://github.com/sharmasushil/BEVSeg2TP/assets/70905483/2782c6dd-6bd5-4267-851
 
 
 
+<video width="400" controls>
+  <source src="https://github.com/sharmasushil/BEVSeg2TP/assets/70905483/2782c6dd-6bd5-4267-851f-97c04d44cf30" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
