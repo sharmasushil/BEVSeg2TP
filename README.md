@@ -4,5 +4,8 @@
 
 👉🏻 To delve deeper into our findings and gain a more comprehensive understanding of our results, we invite you to explore the additional insights presented in our video.
 
-https://github.com/sharmasushil/BEVSeg2TP/assets/70905483/b26309be-daed-4508-af14-8ef7232c4407
+
+
+
+https://github.com/sharmasushil/BEVSeg2TP/assets/70905483/2782c6dd-6bd5-4267-851f-97c04d44cf30
 
