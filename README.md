@@ -18,9 +18,9 @@ Our proposed BEVSeg2TP framework - surround-view camera joint vehicle segmentati
 
 ## Our Contribution  ⚙️
 
-- # Our proposed deep architecture offers an approach to jointly accomplish vehicle segmentation and ego vehicle trajectory prediction tasks by combining and adapting the works of CVT and Covernet.
-- # We propose enhancements to the capabilities of the current encoder-decoder transformer used in the spatio-temporal probabilistic network (STPN) for optimizing trajectory prediction.
-- # We implemented an end-to-end trainable surround-view camera bird's-eye-view-based network that achieves state-of-the-art results on the nuScenes dataset when jointly trained with segmentation
+- ##### Our proposed deep architecture offers an approach to jointly accomplish vehicle segmentation and ego vehicle trajectory prediction tasks by combining and adapting the works of CVT and Covernet.
+- ##### We propose enhancements to the capabilities of the current encoder-decoder transformer used in the spatio-temporal probabilistic network (STPN) for optimizing trajectory prediction.
+- ##### We implemented an end-to-end trainable surround-view camera bird's-eye-view-based network that achieves state-of-the-art results on the nuScenes dataset when jointly trained with segmentation
     
 
 ## Our proposed architecture ⛓️
