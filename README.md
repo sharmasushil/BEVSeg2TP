@@ -15,7 +15,7 @@ Abstrct: Trajectory prediction is, naturally, a key task for vehicle autonomy. W
 Our Overview: Segment anything model extracts bounding box info. GNN processes the graph for spatial feature relations, predicting ego vehicle trajectory with LSTM layers.
 
 
-<img src="https://github.com/sharmasushil/BEVSeg2TP/assets/70905483/4ef70f3e-4440-49ca-801e-207aeccedb4e" width ="750">
+<img src="https://github.com/sharmasushil/BEVSeg2TP/assets/70905483/4ef70f3e-4440-49ca-801e-207aeccedb4e" width ="850">
 
 
 ## Our proposed architecture ⛓️
