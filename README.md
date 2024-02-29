@@ -30,7 +30,7 @@ Qualitative results of BEVSeg2TP model for joint vehicle segmentation and ego ve
 
 
 ## Citation 👇🏻
-If you use this dataset in your research or work, we kindly request that you cite the following paper:
+If you like our work, Please we kindly request that you cite the following paper:
 
 ```BibTeX
 @inproceedings{sharma2024bevseg2tp,
