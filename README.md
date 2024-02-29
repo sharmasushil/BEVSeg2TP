@@ -19,7 +19,8 @@ Our proposed BEVSeg2TP framework - surround-view camera joint vehicle segmentati
 ## Our proposed architecture ⛓️
 Our proposed BEVSeg2TP architecture:  Joint vehicle segmentation and ego vehicles trajectory prediction involves extracting image features $\{ \phi\}$ at multiple scales and using a camera-aware positional embedding $\{ \delta\}$ to account for perspective distortion. We then use map-view positional embedding and cross-attention layers to capture contextual information from multiple views and refine the vehicle segmentation. This segmentation information is then used as input to a spatio-temporal probabilistic network (STPN) for trajectory prediction based on the surrounding environment.
 
-<img src="https://github.com/sharmasushil/Optimizing-Ego-Vehicle-Trajectory-Prediction-The-Graph-Enhancement-Approach/assets/70905483/140fda00-482d-448f-bc57-663990356165" width = "650">
+
+<img src="https://github.com/sharmasushil/BEVSeg2TP/assets/70905483/a7803afc-8507-4462-83c4-c979f5a7ceb2" width = "650">
 
 ## CARLA Results Visualization 📈
 
