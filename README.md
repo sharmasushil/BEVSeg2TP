@@ -33,12 +33,15 @@ Qualitative results of BEVSeg2TP model for joint vehicle segmentation and ego ve
 If you use this dataset in your research or work, we kindly request that you cite the following paper:
 
 ```BibTeX
-@inproceedings{sharma2024,
-      title={Optimizing Ego Vehicle Trajectory Prediction: The Graph Enhancement Approach}, 
-      author={Sushil Sharma, Aryan Singh, Ganesh Sistu, Mark Halton, Ciarán Eising},
-      year={2024},
-      booktitle={Electronic Imaging,2024,pp 115-1 - 115-6,https://doi.org/10.2352/EI.2024.36.17.AVM-115,
-      San Francisco, California, USA}
+@inproceedings{sharma2024bevseg2tp,
+  author    = {Sushil Sharma and Arindam Das and Ganesh Sistu and Mark Halton and Ciaran Eising},
+  title     = {{BEVSeg2TP}: Surround View Camera Bird's-Eye-View Based Joint Vehicle Segmentation and Ego Vehicle Trajectory Prediction},
+  booktitle = {Proceedings of the 19th International Conference on Computer Vision Theory and Applications (VISAPP)},
+  month     = feb,
+  year      = {2024},
+  pages     = {25-34},
+  address   = {Rome, Italy},
 }
+
 ```
 
