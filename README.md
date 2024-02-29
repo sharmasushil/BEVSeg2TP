@@ -22,11 +22,9 @@ Our proposed BEVSeg2TP architecture:  Joint vehicle segmentation and ego vehicle
 
 <img src="https://github.com/sharmasushil/BEVSeg2TP/assets/70905483/a7803afc-8507-4462-83c4-c979f5a7ceb2" width = "650">
 
-## CARLA Results Visualization 📈
+## QQualitative results 📈
 
-Qualitative results: Left depicts a random frame from the Carla simulation, and the middle illustrates the GNN graph structure
-with nodes and edges. On the right, the predicted trajectory of the ego vehicle is plotted over a 5-step horizon, where the starting step is
-marked in blue, and the predicted trajectory is represented in red.
+Qualitative results of BEVSeg2TP model for joint vehicle segmentation and ego vehicle trajectory prediction:} Six camera views around the vehicle (top three facing forward, bottom three facing backwards) with ground truth segmentation on the right. Our trajectory prediction with improved map-view segmentation (second from right) compared to the CVT  method (third from right).
 
 
 <img src="https://github.com/sharmasushil/Optimizing-Ego-Vehicle-Trajectory-Prediction-The-Graph-Enhancement-Approach/assets/70905483/b97c4dc1-cfe0-400d-a285-cc26e894ab6b" width ="650">
