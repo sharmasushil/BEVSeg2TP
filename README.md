@@ -1,7 +1,7 @@
 
 
 <p align="center">
-    <h4 align="center"><a href="https://arxiv.org/abs/2312.13081">📑 Article</a>  |  <a href="https://youtu.be/FNBMEUbM3r8">🎬 Video</a> |  <a href="https://docs.google.com/presentation/d/1qIYRXm3XpVhu2XLbClz6T3ly-d5_mXHE/edit#slide=id.p1">🎙️Talk</a>    </h4> 
+    <h4 align="center"><a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=8NUYceiSlzs=&t=1">📑 Article</a>  |  <a href="https://youtu.be/FNBMEUbM3r8">🎬 Video</a> |  <a href="https://docs.google.com/presentation/d/1qIYRXm3XpVhu2XLbClz6T3ly-d5_mXHE/edit#slide=id.p1">🎙️Talk</a>    </h4> 
 </p>
 
 ## BEVSeg2TP: Surround View Camera Bird’s-Eye-View Based Joint Vehicle Segmentation and Ego Vehicle Trajectory Prediction
