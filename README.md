@@ -40,16 +40,16 @@
 
 ```BibTeX
 @conference{visapp24,
-author={Sushil Sharma. and Arindam Das. and Ganesh Sistu. and Mark Halton. and Ciarán Eising.},
-title={BEVSeg2TP: Surround View Camera Bird’s-Eye-View Based Joint Vehicle Segmentation and Ego Vehicle Trajectory Prediction},
-booktitle={Proceedings of the 19th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 4: VISAPP},
-year={2024},
-pages={25-34},
-publisher={SciTePress},
-organization={INSTICC},
-doi={10.5220/0012321700003660},
-isbn={978-989-758-679-8},
-issn={2184-4321},
-}
+ author={Sushil Sharma. and Arindam Das. and Ganesh Sistu. and Mark Halton. and Ciarán Eising.},
+ title={BEVSeg2TP: Surround View Camera Bird’s-Eye-View Based Joint Vehicle Segmentation and Ego Vehicle Trajectory Prediction},
+ booktitle={Proceedings of the 19th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 4: VISAPP},
+ year={2024},
+ pages={25-34},
+ publisher={SciTePress},
+ organization={INSTICC},
+ doi={10.5220/0012321700003660},
+ isbn={978-989-758-679-8},
+ issn={2184-4321},}
+ 
 ```
 
